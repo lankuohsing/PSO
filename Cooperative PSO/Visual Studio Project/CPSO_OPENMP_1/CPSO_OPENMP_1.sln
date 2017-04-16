@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPSO_OPENMP_1", "CPSO_OPENMP_1\CPSO_OPENMP_1.vcxproj", "{54CFC76D-9AEC-4219-AEC3-2F91B3E8B18E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54CFC76D-9AEC-4219-AEC3-2F91B3E8B18E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{54CFC76D-9AEC-4219-AEC3-2F91B3E8B18E}.Debug|Win32.Build.0 = Debug|Win32
+		{54CFC76D-9AEC-4219-AEC3-2F91B3E8B18E}.Release|Win32.ActiveCfg = Release|Win32
+		{54CFC76D-9AEC-4219-AEC3-2F91B3E8B18E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
